@@ -1,2 +1,2 @@
 # ML-project
-Machine learning project
+Machine learning
